@@ -1,6 +1,6 @@
 ### XYY1411 👋
 
-An OIer from China.
+An OIer.
 
 Use C++, C, Python.
 <div>
